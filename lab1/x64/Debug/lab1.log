@@ -1,0 +1,5 @@
+﻿     Создается библиотека C:\Users\Rayphias\Desktop\Triangle\x64\Debug\lab1.lib и объект C:\Users\Rayphias\Desktop\Triangle\x64\Debug\lab1.exp
+LINK : warning LNK4217: Символ "glewInit", определенный в "glew.obj", импортирован "lab1.obj" в функции "main".
+LINK : warning LNK4217: Символ "glewGetErrorString", определенный в "glew.obj", импортирован "lab1.obj" в функции "main".
+LINK : warning LNK4217: Символ "glewExperimental", определенный в "glew.obj", импортирован "lab1.obj" в функции "main".
+  lab1.vcxproj -> C:\Users\Rayphias\Desktop\Triangle\x64\Debug\lab1.exe
